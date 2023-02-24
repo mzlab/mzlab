@@ -7,8 +7,8 @@
 
 Implementación web:
 
-- [Pinball movil](https://soloporserwom.cl/)
-- [Super Womer World](https://womappgame.cl/juego/)
+- [Pinball movil](https://soloporserwom.cl/) (optimizado para movil)
+- [Super Womer World](https://womappgame.cl/juego/) (optimizado para movil)
 
 
 

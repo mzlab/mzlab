@@ -1,4 +1,12 @@
-### Hi there 👋
+## Portafolio
+
+- [Visita virtual fábrica Hunter Douglas](https://dev.marq.cl) (solicitar credenciales)
+- [Aplicación Sala de ventas virtual](https://marq.cl/desarrollos/Socovesa/avellanos2/tour.html)
+
+Implementación web:
+
+- [Pinball movil](https://soloporserwom.cl/)
+- [Super Womer World](https://womappgame.cl/juego/)
 
 <!--
 **mzlab/mzlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

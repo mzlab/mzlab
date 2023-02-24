@@ -2,11 +2,15 @@
 
 - [Visita virtual fábrica Hunter Douglas](https://dev.marq.cl) (solicitar credenciales)
 - [Aplicación Sala de ventas virtual](https://marq.cl/desarrollos/Socovesa/avellanos2/tour.html)
+- [Render estereoscópico VR](https://marq.cl/360/test_stereo2/tour.html) (testeado en Oculus Quest 2)
+- [Recorrido 360 / video 360 automatizado](https://marq.cl/desarrollos/autovideo/townhouse/tour.html) 
 
 Implementación web:
 
 - [Pinball movil](https://soloporserwom.cl/)
 - [Super Womer World](https://womappgame.cl/juego/)
+
+
 
 <!--
 **mzlab/mzlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

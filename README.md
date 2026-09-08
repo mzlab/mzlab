@@ -1,14 +1,4 @@
-## Portafolio
 
-- [Visita virtual fábrica Hunter Douglas](https://dev.marq.cl) (admin@marq.cl / ROOT!"#$) (Laravel/PHP)
-- [Aplicación Sala de ventas virtual](https://marq.cl/desarrollos/Socovesa/avellanos2/tour.html) (Javascript/krpano)
-- [Render estereoscópico VR](https://marq.cl/360/test_stereo2/tour.html) (testeado en Oculus Quest 2) (Javascript/krpano)
-- [Recorrido 360 / video 360 automatizado](https://marq.cl/desarrollos/autovideo/townhouse/tour.html) (Javascript/krpano)
-
-Implementación web:
-
-- [Pinball movil](https://soloporserwom.cl/) (optimizado para movil)
-- [Super Womer World](https://womappgame.cl/juego/) (optimizado para movil)
 
 
 
